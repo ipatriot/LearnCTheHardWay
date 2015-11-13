@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
   printf("Woo %c \n", one[0]);
   printf("This is a new thing, this is one character: %c \n", lots_of_characters[4]);
   printf("This is a decimal %f and a string %s \nWe just combined variables! jajaja \n", decimal, name);
-  printf("Combine two differnt variables of the same: \nfirst string: %s second strings: %s \n", name, lots_of_characters );
+  printf("Combine two differnt variables of the same: \nfirst string: %s second strings: %s \n", name, lots_of_characters);
 
 
   return 0;
