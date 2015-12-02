@@ -15,6 +15,7 @@ int main(int argc, char *argv[])
   printf("You are %d miles away. \n", distance);
   printf("You are %d years old. \n", age);
   printf("Hey %d \n", hey);
+  printf("Hello World!\n");
   printf("Hey you! \n");
   printf("Hey %s how are you? \n", name);
   printf("Random thought %s woo \n", lots_of_characters);
