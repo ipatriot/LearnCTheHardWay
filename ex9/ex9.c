@@ -8,5 +8,11 @@ int main(int argc, char *argv[])
 		i++;
 	}
 
+	int j = 25;
+	while (j > 0) {
+		printf("%d \n", j);
+		j--;
+	}
+
 	return 0;
 }
