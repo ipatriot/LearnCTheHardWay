@@ -13,6 +13,7 @@ int main()
 	printf("horizontal tab \t");
 	printf("vertical tap \v");
 	printf("What is the carraige return \r");
+	printf("Hey this is my number %d \n", age );
 
 	return 0;
 }
