@@ -14,6 +14,7 @@ int main(int argc, char * argv[])
 		name[1], name[2], name[3]);
 
 	printf("name:%s \n", name );
+	printf("Hello world\n");
 
 	numbers[0] = 1;
 	numbers[1] = 2;
