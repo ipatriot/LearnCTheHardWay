@@ -23,7 +23,7 @@ int main(int argc, char *argv[])
 	printf("---\n");
 
 
-	//set up the pointers to the star t of the arrays
+	//**set up the pointers to the star t of the arrays
 
 	int *cur_age = ages;
 	char **cur_name = names;
